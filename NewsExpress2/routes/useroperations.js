@@ -35,6 +35,7 @@ router.post('/register', function(req, res, next) {
           res.json({user:data});
         }
     })///
+      
 
 });
 
